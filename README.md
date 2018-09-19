@@ -1,10 +1,11 @@
-The application is spring boot application. I have used in memory h2 database to store orders in database.
+This application is spring boot application. I have used in memory h2 database to store orders in database.
 
-#run application
+#Run application
 mvn spring-boot:run
 
-#access
+#Access
 localhost:8080
+
 
 
 
